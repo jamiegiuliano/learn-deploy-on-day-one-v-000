@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#jamie-giuliano-cover {
+   background-image: url("http://i.imgur.com/RAmpaWs.jpg");
+}
+
+#jamie-giuliano-card {
+   background-image: url("http://i.imgur.com/Xb5ZK1v.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
